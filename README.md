@@ -1,9 +1,3 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50048787/230516765-6eff664f-03e6-4d70-97ed-b6a9ccbb1d83.png" style="max-width: 100%;" alt="Welcome to my GitHub Profile" />
+  <img src="https://github.com/ad-qu/ad-qu/assets/50048787/9b22c3bf-9ab5-4cf3-b544-7f59eadf2334" style="max-width: 100%;" alt="Welcome to my GitHub Profile" />
 </p>
-
-<p align="center">✨ ✨ ✨ ✨ ✨ ✨ ✨</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50048787/230513068-fbfe2324-94c7-4c33-b14e-facce199f67d.png" style="max-width: 100%;"/>
-</p>
-<p align="center">✨ ✨ ✨ ✨ ✨ ✨ ✨</p>
