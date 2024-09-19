@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Adrián!</h1>
-<h3 align="center">Software Developer and Engineer</h3>
 
 ## About Me 😎
 
