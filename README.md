@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Adrián!</h1>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4c6103e9-fd5b-4e58-948d-e3aff5ce47b9" width="1000">
+</p>
 
 ## About Me 😎
 
@@ -11,7 +13,7 @@ You can also watch a video demonstration of the project [here](https://drive.goo
 
 ## My Blog 📖
 
-<p align="justify"> You can also check out my <a href="https://www.google.com/">blog</a>, where I share my journey as a software developer and engineer, along with updates on my future personal projects. </p>
+<p align="justify"> You can check out my <a href="https://www.google.com/">blog</a>, where I share my journey as a software developer and engineer, along with updates on my future personal projects. </p>
 
 ## Technical Skills 🛠️
 
@@ -22,6 +24,10 @@ You can also watch a video demonstration of the project [here](https://drive.goo
 I'm Currently Learning 🕵️‍♂️
 
 * Languages and Frameworks: **Python/Django**, **React**, **React Native** and **Docker**.
+
+## Contact 📧
+
+To get in touch, you can contact me via <a href="https://www.linkedin.com/in/adrian-quiros/">LinkedIn</a> or send me an email at adqu1590@gmail.com.
 
 ## Support My Work 💰
 
