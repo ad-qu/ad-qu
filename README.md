@@ -4,10 +4,10 @@
 
 ## About Me 😎
 
-<p align="justify"> I'm Adrián, a recent graduate in Network Engineering and Internet Technologies who discovered a passion for software development and engineering. My journey into this field was sparked by several development projects I completed during my studies at the Polytechnic University of Catalonia, where I earned my degree. Through these projects, I explored various technologies, culminating in my final student project: a modern mobile application built with Flutter, powered by a Node.js server in TypeScript, and using MongoDB. This app allowed university campus users to explore and discover communities within the campus. For more details, you can check out the repositories: </p>
+<p align="justify"> I'm Adrián, a recent graduate in Network Engineering and Internet Technologies who discovered a passion for software development and engineering. My journey into this field was sparked by several development projects I completed during my studies at the Polytechnic University of Catalonia, where I earned my degree. Through these projects, I explored various technologies, culminating in my final student project: an expansion of a modern mobile application built with Flutter, powered by a Node.js server in TypeScript, and using MongoDB. This app allowed university campus users to explore and discover communities within the campus. For more details, you can check out the repositories: </p>
 
-* [Frontend of UNIGO](https://github.com/ad-qu/Frontend-UNIGO)
-* [Backend of UNIGO](https://github.com/ad-qu/Backend-UNIGO)
+* [Frontend of UNIGO!](https://github.com/ad-qu/Frontend-UNIGO)
+* [Backend of UNIGO!](https://github.com/ad-qu/Backend-UNIGO)
 
 You can also watch a video demonstration of the project [here](https://drive.google.com/drive/folders/1esj2vOp4PJnmZEqxphvSyORADghZHRjh?usp=sharing).
 
