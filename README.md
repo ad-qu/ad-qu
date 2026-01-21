@@ -5,24 +5,31 @@
 ### 👋 About Me
 
 <p align="justify">
-I'm <strong>Adrián</strong>, a graduate in <strong>Network Engineering and Internet Technologies</strong> who discovered a passion for <strong>software development</strong> and <strong>engineering</strong>.  
-I enjoy creating clean, efficient, and user-centered applications while continuously learning new technologies to enhance my craft.  
-Currently, I work in industrial environments applying software solutions to improve automation, data visualization, and operational efficiency.
+I'm <strong>Adrián</strong>, a software developer and telecommunications engineer specialized in <strong>Network Engineering and Internet Technologies</strong>.  
+I currently work on <strong>industrial digitalization</strong> and <strong>Industry 4.0</strong> projects, building software solutions that connect production systems with reliable and usable data.
+
+My background includes extensive work with different programming languages and software technologies, which now supports my focus on industrial environments, data integration, and real-time systems. I enjoy working on projects where software engineering and industrial operations meet, especially when well-designed tools can simplify complex processes and improve day-to-day work on the shop floor.
 </p>
 
 ### 🛠️ Technical Skills
 
-- 🖥️ **Frontend:** Development with **Flutter** (mobile apps) and **.NET (C# / WinForms)**  
-- ⚙️ **Backend:** **C** with **MySQL**, **TypeScript / Node.js** with **MongoDB**, **Firebase** integration, and **Lua** scripting  
-- 🧰 **Tools & Platforms:** **Figma**, **Git**, **GitHub**, and **AspenTech Inmation** (**DataStudio** / **WebStudio**) for industrial automation and real-time dashboarding
+- ⚙️ **Industrial software:** AspenTech Inmation (DataStudio, WebStudio), Lua, JSON-based configuration, real-time data systems  
+- 🖥️ **Software development:** C, C#, TypeScript, Dart, Node.js  
+- 🗄️ **Data & backend:** MongoDB, SQL, Firebase, time-series data processing  
+- 🧰 **Tools:** Git, GitHub, Figma
 
-### 🏭 Industrial Automation
+### 🏭 Industry 4.0 & Industrial Systems
 
-In my current role, I work with **AspenTech Inmation** to integrate, contextualize, and visualize data from industrial production systems.  
-Using **DataStudio** and **WebStudio**, I design and configure **dashboards and real-time interfaces** that display key plant metrics, monitor equipment performance, and support decision-making.  
-My work focuses on improving **process automation**, **data accessibility**, and **operational efficiency** through well-structured information models and intuitive visualization tools.
+In my current role, I design and develop monitoring and data integration solutions for manufacturing environments using <strong>AspenTech Inmation</strong>. My work involves:
+
+- Integrating industrial equipment and heterogeneous data sources  
+- Building real-time monitoring platforms and operational dashboards  
+- Developing backend logic in Lua to process data and define system behavior  
+- Supporting system monitoring, configuration management, and data migration processes  
+
+The goal is always the same: transform raw operational data into clear, reliable information that production teams can actually use.
 
 ### 📫 Contact
 
-Feel free to reach out on  
+You can reach me on  
 [**LinkedIn**](https://www.linkedin.com/in/adrian-quiros/) or by email: **adqu1590@gmail.com**
